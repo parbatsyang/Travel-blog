@@ -1,0 +1,34 @@
+*{
+    font-family: 'Lora', serif;
+font-family: 'Poppins', sans-serif;
+}
+#nav{
+    background-color:rgb(191, 178, 178);
+}
+
+/* landing page */
+
+.landing-page .Header .quote{
+    padding: 30px;
+    margin-bottom: -10px;
+    font-family:'Courier New', Courier, monospace;
+}
+.image{
+    position: relative;
+}
+.image .slogan{
+    position: absolute;
+    top:10px;
+    font-style:normal;
+    color: rgb(6, 124, 124);
+    font-size: 20px;
+}
+
+
+/* About-page */
+#describe{
+    width: 65%;
+    background-color:rgb(183, 168, 125);
+    height: 100vh;
+    padding: 10px;
+}
