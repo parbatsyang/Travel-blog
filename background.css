@@ -1,0 +1,14 @@
+*{
+    font-family:Merriweather ;
+    margin: 0;
+    padding: 0;;
+}
+body{
+    height: 1000px;
+    background-image :url(./Assets/travel.jpg);
+    background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        font-weight: bold;
+}
