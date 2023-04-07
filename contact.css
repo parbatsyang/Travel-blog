@@ -50,3 +50,8 @@ width: 400px;
    color: rgb(10, 10, 10);
   
 }
+button{
+   background-color: rgb(73, 73, 234);
+  display: flex;
+  justify-content: space-between;
+}
